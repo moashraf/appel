@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Meet the iTechs &#8211; iCracked &#8211; The Fix</title>
+	<atom:link href="https://www.icracked.com/blog/category/meet-the-itechs/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.icracked.com/blog</link>
+	<description>News of the Technical Variety</description>
+	<lastBuildDate>Thu, 13 Sep 2018 19:23:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+<site xmlns="com-wordpress:feed-additions:1">107548503</site>	<item>
+		<title>Meet the iTechs: Taha Jahmi</title>
+		<link>https://www.icracked.com/blog/2016/08/31/meet-the-itechs-taha-jahmi</link>
+		<comments>https://www.icracked.com/blog/2016/08/31/meet-the-itechs-taha-jahmi#respond</comments>
+		<pubDate>Wed, 31 Aug 2016 19:13:24 +0000</pubDate>
+		<dc:creator><![CDATA[Jordan Barnes, iCracked HQ]]></dc:creator>
+				<category><![CDATA[Meet the iTechs]]></category>
+
+		<guid isPermaLink="false">http://blog.icracked.com/?p=4192</guid>
+		<description><![CDATA[<p>Meet the iTechs is a series about our iTech network. Learn about our technicians, who they are, why they chose iCracked and what being an iTech means to them. Meet Taha Jahmi. Taha Jami is a senior at Maritime College in New York. He’s been an iTech for almost three years. We’ve yet to find </p>
+<p>The post <a rel="nofollow" href="https://www.icracked.com/blog/2016/08/31/meet-the-itechs-taha-jahmi">Meet the iTechs: Taha Jahmi</a> appeared first on <a rel="nofollow" href="https://www.icracked.com/blog">iCracked - The Fix</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.icracked.com/blog/2016/08/31/meet-the-itechs-taha-jahmi/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4192</post-id>	</item>
+		<item>
+		<title>Meet the iTechs: Christian Rabens</title>
+		<link>https://www.icracked.com/blog/2016/08/15/meet-the-itechs-christian-rabens</link>
+		<comments>https://www.icracked.com/blog/2016/08/15/meet-the-itechs-christian-rabens#respond</comments>
+		<pubDate>Mon, 15 Aug 2016 20:57:58 +0000</pubDate>
+		<dc:creator><![CDATA[Jordan Barnes, iCracked HQ]]></dc:creator>
+				<category><![CDATA[Meet the iTechs]]></category>
+
+		<guid isPermaLink="false">http://blog.icracked.com/?p=4189</guid>
+		<description><![CDATA[<p>Meet the iTechs is a series about our iTech network. Learn about our technicians, who they are, why they chose iCracked and what being an iTech means to them. Meet Christian Rabens. Christian is based in Charleston, South Carolina, and has done over 3,000 repairs. Amazingly so, he chatted with us while enjoying his other </p>
+<p>The post <a rel="nofollow" href="https://www.icracked.com/blog/2016/08/15/meet-the-itechs-christian-rabens">Meet the iTechs: Christian Rabens</a> appeared first on <a rel="nofollow" href="https://www.icracked.com/blog">iCracked - The Fix</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.icracked.com/blog/2016/08/15/meet-the-itechs-christian-rabens/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4189</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: www.icracked.com @ 2018-10-03 05:25:47 by W3 Total Cache -->

